@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes the Kaggle **Spaceship Titanic** dataset to predict which passengers were transported to an alternate dimension following a spacecraft accident. The goal was to build a high-performing, interpretable classification model that improves upon a baseline Kaggle score (~78%) through careful feature engineering, leakage-aware preprocessing, and threshold tuning.
+This project analyzes the Kaggle **Spaceship Titanic** dataset to predict which passengers were transported to an alternate dimension following a spacecraft accident. The goal was to build a high-performing, interpretable classification model through careful feature engineering, leakage-aware preprocessing, and threshold tuning.
 
 ---
 
